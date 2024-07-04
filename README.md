@@ -67,5 +67,5 @@ zcash-cli -testnet -rpcport=8080 <COMMAND>
 ```
 
 ## Demo 
-For ease of demonstration purposes, there is a `send_tx.sh` script which sends a tx through the mixnet and then queries the tx, returning the tx information. 
+For ease of demonstration purposes, there is a `send_tx.sh` script which sends a tx through the mixnet and then queries the tx, returning the tx information. This script relies on `zcash-cli` being in your `$PATH`. 
 
