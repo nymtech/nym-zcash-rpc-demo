@@ -1,5 +1,8 @@
 # Nym-Zcash-RPC 
 
+## ⚠️ This is now outdated, please check [this repo](https://github.com/nymtech/standalone-tcp-proxies) for standalone binaries, or the Rust SDK ⚠️
+
+
 Interacting with a `zcashd` node via RPC over the mixnet using `zcash-cli`.
 
 ## Overview 
